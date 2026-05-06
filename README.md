@@ -1,93 +1,125 @@
-<h1 align="center">Hi, I'm Vipul Sahu</h1>
-<h3 align="center">Frontend Developer building fast, polished, and user-focused web experiences</h3>
+<h1 align="center">Vipul Sahu</h1>
+<h3 align="center">Frontend Developer crafting fast interfaces, polished interactions, and modern web products</h3>
 
 <p align="center">
-  <a href="mailto:vipulsahu063@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vipulsahu063"><img src="https://img.shields.io/badge/GitHub-vipulsahu063-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/vipulsahu063"><img src="https://img.shields.io/badge/LinkedIn-Vipul_Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vipulsahu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live_Site-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=React+%7C+Next.js+%7C+TypeScript;Performance-focused+frontend+developer;I+like+building+clean+UIs+and+creative+web+experiences;3D+web+projects+%7C+SEO+%7C+Full-stack+products" alt="Typing intro" />
 </p>
 
----
+<p align="center">
+  <a href="mailto:vipulsahu063@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vipulsahu063"><img src="https://img.shields.io/badge/GitHub-vipulsahu063-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/vipulsahu063"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://vipulsahu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=120&section=header&text=Build%20.%20Ship%20.%20Improve&fontColor=ffffff&fontSize=26&animation=fadeIn" alt="Banner" />
+</p>
 
 ## About Me
 
-I'm a frontend developer who enjoys turning ideas into responsive, high-performance products with clean UI and thoughtful user experience.
+I enjoy turning ideas into smooth, responsive, production-ready products. My favorite part of development is combining clean frontend architecture with strong UX details so the final result feels fast, sharp, and intentional.
 
-- Building with `React.js`, `Next.js`, `TypeScript`, and `Tailwind CSS`
-- Interested in `performance`, `SEO`, `3D web experiences`, and `full-stack MERN apps`
-- Shipped features like `role-based dashboards`, `auth flows`, `interactive maps`, and `3D product viewers`
-- Focused on writing interfaces that feel smooth, scalable, and production-ready
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-## What I Work With
+### What Drives Me
 
-```txt
-Frontend     React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, SCSS
-State        Redux Toolkit, React Hooks, Valtio
-Backend      Node.js, Express.js, REST APIs, JWT, NextAuth.js
-Database     MongoDB, Mongoose, MySQL
-3D / Visual  Three.js, React Three Fiber, GLTF/GLB rendering
-Tools        Git, GitHub, Vercel, Docker, Cloudinary, ESLint
+- Building modern apps with `React.js`, `Next.js`, and `TypeScript`
+- Improving `performance`, `SEO`, and real user experience
+- Creating `3D` or interactive UI that feels more alive
+- Shipping products that balance `clean code` and `visual polish`
+
+  </td>
+    <td valign="top" width="50%">
+
+### Current Energy
+
+- Frontend architecture for scalable products
+- Better motion, interaction, and UI feedback
+- Full-stack workflows with strong DX and UX
+- Sharper execution from first component to deployment
+
+  </td>
+  </tr>
+</table>
+
+## Developer Snapshot
+
+```ts
+const vipul = {
+  role: "Frontend Developer",
+  stack: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "REST APIs", "NextAuth.js"],
+  database: ["MongoDB", "MySQL"],
+  extras: ["Three.js", "React Three Fiber", "SEO", "Performance"],
+  mindset: ["Build clean", "Ship fast", "Polish details"]
+};
 ```
 
-## Highlights
+## Tech Stack
 
-- Built production web apps with `90+ Lighthouse scores` through lazy loading, image optimization, and Core Web Vitals improvements
-- Developed a `Next.js admin dashboard` with CRUD flows, RBAC, protected routes, and secure authentication
-- Worked on `technical SEO` with metadata, sitemap generation, and structured data
-- Created `interactive 3D experiences` using React Three Fiber and Three.js
-- Built projects across `frontend`, `full-stack`, and `AI/NLP` domains
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,docker,git,github,vscode&perline=5" alt="Tech stack" />
+</p>
 
-## Featured Projects
+## Highlighted Work
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 ### ProductSphere
-Interactive 3D product visualization app with real-time color customization, orbit controls, and smooth asset loading using `React`, `Three.js`, and `React Three Fiber`.
+
+Interactive 3D product experience with real-time customization, GLTF rendering, and polished visual interaction using `Three.js` and `React Three Fiber`.
+
+  </td>
+    <td valign="top" width="33%">
 
 ### Schedulr
-Full-stack calendar application built with the `MERN` stack, featuring JWT authentication, protected routes, secure CRUD operations, and scheduling UI.
+
+Full-stack MERN scheduling app with JWT auth, protected routes, secure CRUD flows, and a real calendar-based user experience.
+
+  </td>
+    <td valign="top" width="33%">
 
 ### TruthLens
-Fake news detection application using `Python`, `Streamlit`, and `scikit-learn`, powered by NLP preprocessing and classical ML models.
 
-## Experience Snapshot
+Python and NLP-based fake news detection app built with `Streamlit` and `scikit-learn`, focused on practical ML implementation.
 
-### Frontend Developer at Bihardeal
-- Built a role-based admin dashboard with `Next.js App Router` and `TypeScript`
-- Added secure authentication with `NextAuth.js`, `JWT`, `RBAC`, and `bcrypt`
-- Integrated uploads with `Cloudinary` and export features using `xlsx` and `jszip`
+  </td>
+  </tr>
+</table>
 
-### Frontend Developer at Hiker Himachal
-- Developed a responsive travel platform with `Next.js` and `TypeScript`
-- Improved performance to `90+ Lighthouse`
-- Added SEO enhancements and interactive trek maps with `React Leaflet` and `OpenStreetMap`
+## Experience Highlights
 
-### Frontend Developer at Fluencetek
-- Maintained and improved websites in `Wix Studio`
-- Worked on content updates, landing page changes, and on-page SEO
-- Improved responsiveness and cross-browser stability
+- Built a `role-based admin dashboard` with Next.js App Router, TypeScript, CRUD workflows, and protected routes
+- Implemented secure auth using `NextAuth.js`, `JWT`, `RBAC`, and `bcrypt`
+- Improved product quality with `90+ Lighthouse` performance work and Core Web Vitals optimization
+- Worked on `technical SEO` including metadata, structured data, and sitemap improvements
+- Built map-based and interactive travel experiences with `React Leaflet` and `OpenStreetMap`
 
-## Currently Exploring
-
-- Better frontend architecture for scalable apps
-- Advanced animation and 3D interaction on the web
-- Cleaner full-stack workflows with strong UX and performance
-
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulsahu063&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulsahu063&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vipulsahu063&show_icons=true&theme=transparent&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=1F2937" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulsahu063&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&border=1F2937" height="170" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulsahu063&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulsahu063&layout=compact&theme=transparent&title_color=38BDF8&text_color=E2E8F0&border_color=1F2937" height="170" alt="Top languages" />
 </p>
 
-## Let's Connect
+## Connect With Me
 
-I'm always excited to collaborate on frontend projects, performance-focused products, and creative web experiences.
+<p align="center">
+  <a href="https://vipulsahu.vercel.app">Portfolio</a> |
+  <a href="https://linkedin.com/in/vipulsahu063">LinkedIn</a> |
+  <a href="https://github.com/vipulsahu063">GitHub</a> |
+  <a href="mailto:vipulsahu063@gmail.com">Email</a>
+</p>
 
-- Email: `vipulsahu063@gmail.com`
-- Portfolio: [vipulsahu.vercel.app](https://vipulsahu.vercel.app)
-- LinkedIn: [linkedin.com/in/vipulsahu063](https://linkedin.com/in/vipulsahu063)
-- GitHub: [github.com/vipulsahu063](https://github.com/vipulsahu063)
+<p align="center">
+  <sub>Open to frontend roles, creative web builds, and ambitious product collaborations.</sub>
+</p>
