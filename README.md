@@ -1,101 +1,150 @@
 <div align="center">
 
-# Vipul Sahu
+# Hi there, I'm Vipul Sahu 👋
 
-### Frontend Developer
+### Frontend Developer | React -  Next.js -  TypeScript | SEO -  Performance -  3D UI
 
-`React` `Next.js` `TypeScript` `Performance` `SEO` `3D Web`
-
-<br />
-
-<a href="mailto:vipulsahu063@gmail.com">Email</a> / 
-<a href="https://github.com/vipulsahu063">GitHub</a> / 
-<a href="https://linkedin.com/in/vipulsahu063">LinkedIn</a> / 
-<a href="https://vipulsahu.vercel.app">Portfolio</a>
+[
+[
+[
 
 </div>
 
-<br />
+***
 
-```text
-DESIGNING CLEAN INTERFACES.
-BUILDING FAST PRODUCTS.
-POLISHING THE DETAILS.
+## 🧑‍💻 About Me
+
+I'm a Frontend Developer who builds **responsive, high-performance web applications** using modern React and Next.js ecosystems.  
+I care deeply about **Core Web Vitals**, **SEO**, **clean UI**, and writing scalable code that works in production.
+
+- 🚀 Achieved **90+ Google Lighthouse scores** in production
+- 👥 Built apps serving **~1,000 monthly active users**
+- 🔐 Implemented **RBAC dashboards** with JWT auth and session management
+- 🌐 Built **SEO-optimized** apps with JSON-LD schema, dynamic metadata, and sitemaps
+- 🎯 Built **interactive 3D UI** experiences with React Three Fiber and Three.js
+- 📦 Available for **Frontend Developer** roles — open to remote/hybrid
+
+***
+
+## 🛠️ Tech Stack
+
+### Languages
+
+
+
+
+
+
+### Frameworks & Libraries
+
+
+
+
+
+
+
+### 3D & Visualization
+
+
+
+### Database & Backend
+
+
+
+
+### Tools
+
+
+
+
+
+***
+
+## 🚀 Featured Projects
+
+### 🔷 [ProductSphere](https://github.com/vipulsahu063/ProductSphere)
+> Interactive 3D product visualization app with real-time customization
+
+- Built with **React, Three.js, React Three Fiber, Drei, and Valtio**
+- **GLTF/GLB model rendering** with real-time color customization and orbit controls
+- Smooth asset loading via **Suspense/lazy loading**
+
+***
+
+### 📅 [Schedulr](https://github.com/vipulsahu063/Schedulr)
+> Full-stack MERN calendar app with secure scheduling and auth
+
+- Built with **React, Redux Toolkit, Node.js, Express.js, MongoDB, and JWT**
+- **JWT authentication**, bcrypt password hashing, and protected routes
+- REST APIs with **Express Validator and CORS** for secure CRUD event management
+
+***
+
+### 🔍 [TruthLens](https://github.com/vipulsahu063/TruthLens)
+> AI-powered fake news detection app
+
+- Built with **Python, Streamlit, scikit-learn, and Docker**
+- **TF-IDF, Bag-of-Words, Linear SVM, and Naive Bayes** models on 6,335 records
+- NLP text preprocessing + **containerized deployment via Docker**
+
+***
+
+## 💼 Work Experience
+
+| Role | Company | Stack | Year |
+|------|---------|-------|------|
+| Frontend Developer | Bihardeal | Next.js, TypeScript, MySQL, NextAuth.js | 2026 |
+| Frontend Developer | Hiker Himachal | Next.js, TypeScript, React, Tailwind CSS | 2025 |
+| Frontend Developer | Fluencetek | Wix Studio, CMS, SEO | 2025 |
+
+***
+
+## 🏆 Highlights
+
+```
+✅ 90+ Google Lighthouse scores in production
+✅ ~1,000 monthly active users on Hiker Himachal
+✅ RBAC dashboards with JWT auth and NextAuth.js
+✅ SEO with JSON-LD schema, sitemap.xml, dynamic metadata
+✅ 3D UI with React Three Fiber, GLTF rendering, orbit controls
+✅ ML model trained on 6,335 records with TF-IDF and SVM
 ```
 
-## About
+***
 
-I build frontend experiences that feel simple, fast, and intentional.
+## 📜 Certifications
 
-My work sits at the intersection of clean UI, solid engineering, and product thinking. I enjoy turning rough ideas into refined interfaces, building scalable React and Next.js applications, and improving the small details that make a product feel sharp.
+- 🎓 **Frontend Development Libraries (React, Redux)** — freeCodeCamp, 2024
+- 🎓 **Responsive Web Design** — freeCodeCamp, 2024
+- 🎓 **JavaScript Algorithms and Data Structures** — freeCodeCamp, 2024
 
-## Selected Focus
+***
 
-| | |
-|---|---|
-| `Frontend` | React.js, Next.js, TypeScript, Tailwind CSS, SCSS |
-| `Systems` | Design consistency, reusable components, scalable architecture |
-| `Performance` | Lighthouse optimization, lazy loading, Core Web Vitals |
-| `Experience` | Smooth UX, responsive layouts, SEO, production polish |
-| `Creative Web` | Three.js, React Three Fiber, interactive 3D UI |
+## 📊 GitHub Stats
 
-## Philosophy
+<div align="center">
 
-```ts
-const buildPrinciples = [
-  "Keep the interface calm",
-  "Make performance visible",
-  "Reduce noise",
-  "Ship polished details",
-  "Blend engineering with taste"
-];
-```
 
-## What I Build
 
-### Product Interfaces
-Admin dashboards, role-based flows, auth systems, content-driven pages, and responsive product UIs built for real users.
 
-### Performance-Led Frontends
-Applications optimized for speed, clarity, and better user experience through structured frontend decisions.
+</div>
 
-### Creative Web Experiences
-Interactive visuals, 3D product scenes, and motion-rich sections that still stay usable and clean.
+***
 
-## Featured Work
+## 🔥 Streak
 
-### ProductSphere
-An interactive 3D product visualization project with real-time customization, GLTF rendering, orbit controls, and a more immersive product-viewing experience.
+<div align="center">
 
-### Schedulr
-A full-stack MERN scheduling app with JWT authentication, protected routes, secure CRUD operations, and a practical calendar workflow.
+[
 
-### TruthLens
-A Python-powered fake news detection app using Streamlit and scikit-learn, built around NLP preprocessing and applied machine learning.
+</div>
 
-## Experience Highlights
+***
 
-- Built a role-based admin dashboard using `Next.js App Router`, `TypeScript`, and protected CRUD workflows
-- Implemented authentication with `NextAuth.js`, `JWT`, `RBAC`, and `bcrypt`
-- Improved product performance to `90+ Lighthouse` through focused frontend optimization
-- Worked on `technical SEO`, metadata systems, sitemap generation, and structured data
-- Built travel and map-based product experiences with `React Leaflet` and `OpenStreetMap`
+<div align="center">
 
-## Stack
+**Thanks for visiting! Feel free to connect 🤝**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,docker,git,github&theme=light" alt="Tech stack" />
-</p>
+[
 
-## Current Direction
-
-I am currently focused on building frontend systems that feel more premium: better spacing, better performance, clearer interaction design, and stronger execution from the first component to the final shipped product.
-
-## Contact
-
-If you're building something thoughtful on the web, I would love to connect.
-
-- Portfolio: [vipulsahu.vercel.app](https://vipulsahu.vercel.app)
-- LinkedIn: [linkedin.com/in/vipulsahu063](https://linkedin.com/in/vipulsahu063)
-- GitHub: [github.com/vipulsahu063](https://github.com/vipulsahu063)
-- Email: `vipulsahu063@gmail.com`
+</div>
